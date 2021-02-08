@@ -1,4 +1,4 @@
-Desafio
+/*Desafio
 Você terá o desafio de escrever um algoritmo que leia 2 números e imprima o resultado da divisão do primeiro pelo segundo. Caso não for possível, 
 mostre a mensagem “divisao impossivel” para os valores em questão.
 
@@ -9,16 +9,16 @@ Saída
 Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.
 
  
-Exemplo de Entrada	Exemplo de Saída
-3
+Exemplo de Entrada:	 Exemplo de Saída:
+3                    -1.5
 3 -2
 -8 0
 0 8
 
--1.5
+
 divisao impossivel
 0.0
-
+*/
 
 
 let limit = parseInt(gets());
